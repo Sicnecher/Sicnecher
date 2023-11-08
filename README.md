@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sicnecher
+- 👀 I’m interested in programming, training and reading
+- 🌱 I’m currently expanding my knowledge in programming and trying to study more fields
+- 💞️ I’m looking to collaborate on different web projects who require js programer
+- 📫 How to reach me ... if you got here, I probablly reached you ... got you😆
